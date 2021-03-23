@@ -1,0 +1,14 @@
+[
+   {
+      "conStr":"jdbc:db2://dashdb-txn-sbox-yp-dal09-11.services.dal.bluemix.net:50001/BLUDB:user=rkh10014;password=rvlg2s8g0143-k8h;sslConnection=true;",
+      "schema":"RKH10014"
+   },
+   {
+      "conStr":"jdbc:db2://dashdb-txn-sbox-yp-lon02-07.services.eu-gb.bluemix.net:50001/BLUDB:user=bjg60108;password=m0+wg3zpz8lqn8c2;sslConnection=true;",
+      "schema":"BJG60108"
+   },
+   {
+      "conStr":"jdbc:db2://dashdb-txn-sbox-yp-lon02-07.services.eu-gb.bluemix.net:50001/BLUDB:user=bjg60108;password=m0+wg3zpz8lqn8c2;sslConnection=true;",
+      "schema":"AUDIT"
+   }
+]
